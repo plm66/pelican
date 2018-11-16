@@ -14,6 +14,13 @@ ________________________________________________________________________________
 atom . 
 prendre les exemples : https://github.com/getpelican/pelican/tree/master/samples/content
 
+__________________________________________________________________________________________
+faire une installation +
+https://www.fullstackpython.com/blog/generating-static-websites-pelican-jinja2-markdown.html
+
+__________________________________________________________________________________________
+
+
 
 
 __________________________________________________________________________________________
